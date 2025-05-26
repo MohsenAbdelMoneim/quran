@@ -1,0 +1,54 @@
+body{
+      background-color: #f9f9f9;
+  font-family: 'Cairo', sans-serif; /* خط عربي جميل */
+    line-height: 1.8;
+  
+}
+
+.navba{
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding: 20px;
+    /* background-image: url(/img/rvhkk.png); */
+    height: 150px;
+}
+a{
+    text-decoration: none;
+         color: #2e46d3; 
+
+}
+a:hover{
+    color: #53aa5a;
+}
+.hed{
+    text-align: center;
+    color: rgb(212, 163, 163);
+}
+.imgg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+        text-align: center;
+
+}
+.links{
+    display: flex;
+align-items: center;
+justify-content: center;
+color: rgb(13, 13, 172);
+}
+.tablee{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.search{
+    border-radius: 80px;
+    text-align: center;
+}
+.end{
+    text-align: center;
+}
